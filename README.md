@@ -2,7 +2,7 @@
 - 파이썬을 이용한 OpenCV
 
 ## Day_01
-- img 파일 출력해보기
+- img 파일 출력해보기 ([링크](https://github.com/Eilison98/OpenCV_Python/tree/main/Day_01#img-%ED%8C%8C%EC%9D%BC-%EC%B6%9C%EB%A0%A5%ED%95%B4%EB%B3%B4%EA%B8%B0))
 
 <br/>
 
