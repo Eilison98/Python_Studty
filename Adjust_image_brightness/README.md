@@ -1,7 +1,7 @@
-## img 파일 출력해보기
+## img 파일 밝기 조절
 
 <br/>
 
 <p align = "center">
-<img src= "https://user-images.githubusercontent.com/93025344/177115850-969b246e-3220-4b4e-9d33-1f89353603ed.png" width="600" height="400"/>
+<img src= "https://user-images.githubusercontent.com/93025344/177238099-7f5d957d-c2ca-42df-9bda-d8c589eabfef.png" width="800" height="400"/>
 </p>
