@@ -11,10 +11,10 @@ def videoDetector(cam,cascade):
         """ 알고리즘 연산 """
         
         # 캡처 이미지 불러오기
-        ret,img = cam.read()
-        
+        ret, img = cam.read()
+
         # 영상 압축
-        img = cv2.resize(img,dsize=None,fx=1.0,fy=1.0)
+        img = cv2.resize(img,dsize=None,fx=1.5,fy=1.5)
 
         # 그레이 스케일 변환
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) 
