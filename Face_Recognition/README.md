@@ -13,7 +13,7 @@
 `동영상`
 
 <p align = "center">
-<img src= "https://user-images.githubusercontent.com/93025344/177251320-9c7653c6-3b10-4076-9194-22e512dfcd5c.png" width="600" height="400"/>
+<img src= "https://user-images.githubusercontent.com/93025344/177252130-d425d12e-b4c1-4912-a2de-de937a31be2b.gif" width="600" height="400"/>
 </p>
 
 <br/>
