@@ -1,7 +1,7 @@
-## img 파일 출력해보기
+## img 파일 다른 이름으로 저장
 
 <br/>
 
 <p align = "center">
-<img src= "https://user-images.githubusercontent.com/93025344/177115850-969b246e-3220-4b4e-9d33-1f89353603ed.png" width="600" height="400"/>
+<img src= "https://user-images.githubusercontent.com/93025344/177231000-12912eeb-7aa0-4d88-853a-36a0e68dfbc8.png" width="800" height="400"/>
 </p>
