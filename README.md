@@ -6,7 +6,11 @@
     - 리스트 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/List_DataType))
     - 튜플 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Tuple_DataType))
     - 딕셔너리 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Dictionary_DataType))
-
+    - 집합 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Set_DataType))
+    - 불 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Bool_DataType))
+    - 자료형의 값을 저장하는 공간, 변수 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/The_value_of_the_material))
+    - 연습문제 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Practice_problem))
+    
 <br/>
 
 - Python_OpenCV
