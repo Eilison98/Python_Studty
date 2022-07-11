@@ -2,8 +2,8 @@
 
 - Python_Language
   - 자료형
-    - 문자열 자료형 ([링크]())
-    - 리스트 자료형 ([링크]())
+    - 문자열 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/String_DataType))
+    - 리스트 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/List_DataType))
 
 <br/>
 
