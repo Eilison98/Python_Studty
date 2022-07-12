@@ -10,6 +10,11 @@
     - 불 자료형 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Bool_DataType))
     - 자료형의 값을 저장하는 공간, 변수 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/The_value_of_the_material))
     - 연습문제 ([링크](https://github.com/Eilison98/Python_Studty/tree/main/Python_Study/Practice_problem))
+  - 제어문
+    - if문 ([링크](https://github.com/Eilison98/Python_Studty/blob/main/Python_Study/if/Python_if.py))
+    - while문 ([링크](https://github.com/Eilison98/Python_Studty/blob/main/Python_Study/while/Python_while.py))
+    - for문 ([링크](https://github.com/Eilison98/Python_Studty/blob/main/Python_Study/for/Python_for.py))
+    - 연습문제 ([링크](https://github.com/Eilison98/Python_Studty/blob/main/Python_Study/Problem/Python_Problem.py))
     
 <br/>
 
